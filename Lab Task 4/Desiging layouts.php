@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>lab task 2.1</title>
+  <title>lab task 4</title>
 
   <style type="text/css">
     label
